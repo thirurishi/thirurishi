@@ -67,7 +67,6 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models, A
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=E63946" />
   <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=robotframework&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=E63946" />
   <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
