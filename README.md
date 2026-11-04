@@ -3,7 +3,9 @@
   <img src="assets/header.svg" width="100%" alt="Thirumurugan Kumar - Data Analyst, Data Scientist, Photographer" />
 </p>
 
-<!-- 🎞️ GIF 1 (top): delete this comment line and paste your GIF here -->
+<p align="center"> 
+<img width="600" height="350" alt="download" src="https://github.com/user-attachments/assets/96f75227-818f-4254-90da-4a9d3baf95bf" />
+</p>
 
 <p align="center">
   <img src="assets/title-welcome.svg" width="100%" alt="Welcome - I'm Thiru" />
@@ -25,8 +27,9 @@
 🌍 English · Français · தமிழ்<br><br>
 📫 Reach me: <b>thirumurugan.kumar@epita.fr</b>
 </p>
-
-<!-- 🎞️ GIF 2 (above Knowledge): delete this comment line and paste your GIF here -->
+ <p align="center">
+<img width="540" height="400" alt="marveldaily" src="https://github.com/user-attachments/assets/85b3dda3-4c25-4557-86f8-d93618101843" />
+</p>
 
 <!-- ===================== SKILLS ===================== -->
 <p align="center">
@@ -120,8 +123,9 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models an
   </tbody>
 </table>
 </div>
-
-<!-- 🎞️ GIF 3 (above Stats): delete this comment line and paste your GIF here -->
+<p align="center"> 
+<img width="540" height="291" alt="download (1)" src="https://github.com/user-attachments/assets/da5e3e8b-c321-4b71-ad99-9a9e5e1e6f66" />
+</p>
 
 <!-- ===================== STATS ===================== -->
 <p align="center">
