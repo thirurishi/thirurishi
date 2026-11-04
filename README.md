@@ -119,8 +119,13 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models, A
       <td align="center">✅ Completed</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thirurishi/YOUR_STARBUCKS_REPO"><b>Starbucks Power BI Dashboard</b></a></td>
-      <td>Power BI, DAX, Data Modelling</td>
+      <td><a href="https://github.com/ganpat-patel-012/dsa8-al-s3-25"><b>Fake News Detection</b></a> 👥</td>
+      <td>Deep Learning, NLP, LSTM, GRU, TextCNN, RoBERTa</td>
+      <td align="center">✅ Completed</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/navaraja20/Employee-performance-prediction"><b>Employee Performance Prediction</b></a> 👥</td>
+      <td>Python, Machine Learning, HR Analytics</td>
       <td align="center">✅ Completed</td>
     </tr>
     <tr>
@@ -129,14 +134,24 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models, A
       <td align="center">✅ Completed</td>
     </tr>
     <tr>
+      <td><b>Starbucks Sales Dashboard</b></td>
+      <td>Power BI, DAX, Data Modelling</td>
+      <td align="center">📅 Planned</td>
+    </tr>
+    <tr>
       <td><b>Personal Finance Dashboard</b></td>
       <td>Python, Pandas, Power BI</td>
       <td align="center">📅 Planned</td>
     </tr>
+    <tr>
+      <td><b>Paris Vélib' Bike Demand Forecasting</b></td>
+      <td>Python, Time Series, Open Data, Power BI</td>
+      <td align="center">📅 Planned</td>
+    </tr>
   </tbody>
 </table>
+<sub>👥 = group project</sub>
 </div>
-
 <p align="center">
 <img width="540" height="291" alt="download (1)" src="https://github.com/user-attachments/assets/da5e3e8b-c321-4b71-ad99-9a9e5e1e6f66" />
 </p>
