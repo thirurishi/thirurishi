@@ -21,13 +21,14 @@
 <p align="center">
 🎓 Master's in <b>Computer Science – Data Science & Analytics</b> at <b>EPITA, Paris</b><br><br>
 📊 I build end-to-end analytics projects: SQL pipelines, ML models with explainability, and Power BI dashboards<br><br>
-🏙️ Currently working on <b>Paris Real Estate Intelligence</b> and an <b>AI Data Analyst Agent</b><br><br>
+🏙️ Currently working on <b>Paris Real Estate Intelligence</b> and an <b>AI Data Analyst Agent</b> powered by LLMs<br><br>
 💼 Looking for a <b>6-month Data / Business Operations internship</b> starting <b>January 2027</b><br><br>
 📸 Photographer behind <a href="https://thiruuportfolio.netlify.app"><b>THIRU Photography</b></a><br><br>
 🌍 English · Français · தமிழ்<br><br>
 📫 Reach me: <b>thirumurugan.kumar@epita.fr</b>
 </p>
- <p align="center">
+
+<p align="center">
 <img width="540" height="400" alt="marveldaily" src="https://github.com/user-attachments/assets/85b3dda3-4c25-4557-86f8-d93618101843" />
 </p>
 
@@ -37,8 +38,10 @@
 </p>
 
 <p align="center">
-Data Analyst & Data Scientist building analytics pipelines, predictive models and interactive dashboards that turn messy data into clear business decisions.
+Data Analyst & Data Scientist building analytics pipelines, predictive models, AI-powered tools and interactive dashboards that turn messy data into clear business decisions.
 </p>
+
+<p align="center"><b>📊 Data & Analytics</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -48,7 +51,6 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models an
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
   <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/SHAP-0d1117?style=for-the-badge&logoColor=E63946" />
   <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logoColor=217346" />
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
@@ -58,6 +60,18 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models an
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+<p align="center"><b>🤖 AI & Machine Learning</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=robotframework&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP)-0d1117?style=for-the-badge&logoColor=E63946" />
 </p>
 
 <!-- ===================== PROJECTS ===================== -->
@@ -123,7 +137,8 @@ Data Analyst & Data Scientist building analytics pipelines, predictive models an
   </tbody>
 </table>
 </div>
-<p align="center"> 
+
+<p align="center">
 <img width="540" height="291" alt="download (1)" src="https://github.com/user-attachments/assets/da5e3e8b-c321-4b71-ad99-9a9e5e1e6f66" />
 </p>
 
